@@ -1,16 +1,29 @@
-# practice_assignment
+# Pet Care App
 
-A new Flutter project.
+A Flutter project that allows users to search for pet care services and explore different categories with filtering options.
+
+## Features
+- **Interactive Splash Screen** that welcomes the user
+- **Home Screen** with:
+    - Search functionality for pet centres
+    - Filtering options to refine search results
+- **Category Selector** to choose service types
+- **Service Listing Screen** showing services based on selected category
+- **Pet Detail Screen** with complete details of the selected service/pet
+
+## Project Flow
+1. **Splash Screen** → App starts with an interactive splash screen.
+2. **Home Screen** → Displays:
+    - Search bar to find pet centres
+    - Filtering options to narrow down results
+3. **Category Selector** → Users can select categories such as grooming, veterinary, adoption, etc.
+4. **Service Listing Screen** → Shows services based on the selected category.
+5. **Pet Detail Screen** → Opens when a user clicks on a specific service, showing full details.
 
 ## Getting Started
+To run this project:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Install Flutter: https://flutter.dev/docs/get-started/install
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/YourUsername/practice_assignment.git
